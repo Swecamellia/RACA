@@ -386,7 +386,7 @@ If RACA is useful for your research, please cite the paper. The official BibTeX 
 
 ## Acknowledgements
 
-This work was supported by the National Natural Science Foundation of China Grants 62271246 and 82572314, and the Science and Technology Commission of Shanghai Municipality Grant 24511104100.
+This work was supported by the National Natural Science Foundation of China Grants 62271246 and 82572314, and the Science and Technology Commission of Shanghai Municipality Grant 24511104100. We acknowledge the computational resources provided by the Baskerville high-performance computing (HPC) facility at the University of Birmingham.
 
 ## Disclaimer
 
