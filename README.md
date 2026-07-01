@@ -4,7 +4,7 @@
 
 **A rule-aligned multi-agent framework for transparent and clinically grounded breast ultrasound diagnosis.**
 
-[![Paper](https://img.shields.io/badge/Paper-MICCAI%202026%20manuscript-2f6f9f)](#citation)
+[![Paper](https://img.shields.io/badge/Paper-MICCAI%202026%20manuscript-2f6f9f)](./Paper-2740.pdf)
 [![Task](https://img.shields.io/badge/Task-Breast%20Ultrasound%20Classification-bf5b2c)](#results)
 [![Method](https://img.shields.io/badge/Method-Collaborative%20Agents-6a4c93)](#method-overview)
 [![Code](https://img.shields.io/badge/Code-repository-lightgrey)](https://github.com/MedAI-26/RACA.github.io)
@@ -13,7 +13,7 @@ Lingyu Chen<sup>&#42;</sup>, Yue Wang<sup>&#42;</sup>, Cheng Li, Lin Jin, Daoqia
 
 <sup>&#42;</sup> Equal contribution &nbsp;&nbsp; <sup>&dagger;</sup> Co-corresponding authors
 
-[Paper](#citation) | [Method](#method-overview) | [Experimental Setup](#experimental-setup) | [Results](#results) | [Citation](#citation)
+[Paper](./Paper-2740.pdf) | [Method](#method-overview) | [Experimental Setup](#experimental-setup) | [Results](#results) | [Citation](#citation)
 
 </div>
 
